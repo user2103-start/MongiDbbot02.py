@@ -30,8 +30,8 @@ BOT_TOKEN = "8091813423:AAHoh4lnsf41ES3ECq7HdDy3DCmldWJUL5w"
 ADMIN_ID = 6593129349
 MAIN_CHANNEL_ID = "-1003862093466"
 BACKUP_CHANNEL_ID = -1003655362946
-MAIN_CH_LINK = "https://t.me/+pJ7-ZaRKeDw5MjBl"
-BACKUP_CH_LINK = "https://t.me/+DWoy0pgaw9VjOGM1"
+MAIN_CH_LINK = "https://t.me/+7Arw7qaUilQzZTg1"
+BACKUP_CH_LINK = "https://t.me/+dJlB-yQsKDc1MTNl"
 
 # --- MONGODB SETUP ---
 MONGO_URI = "mongodb+srv://Mashupmaster:88eJt75forhI6YXw@cluster0.61rdehu.mongodb.net/?appName=Cluster0" 
